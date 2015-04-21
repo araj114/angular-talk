@@ -1139,3 +1139,17 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+input[type="text"] {
+  padding: 20px;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.left {
+  text-align: left;
+}
+
+.strikeout {
+  text-decoration: line-through;
+}
